@@ -15,9 +15,7 @@ npx skills add aron98/opencode-attach
 Or install for a specific agent:
 
 ```bash
-npx skills add aron98/opencode-attach -a claude-code
-npx skills add aron98/opencode-attach -a opencode
-npx skills add aron98/opencode-attach -a cursor
+npx skills add aron98/opencode-attach -a openclaw
 ```
 
 ## Prerequisites
